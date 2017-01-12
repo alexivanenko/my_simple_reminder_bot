@@ -1,0 +1,9 @@
+[bot]
+debug = false
+token = 12345ABfeedd2323
+
+[db]
+server = 127.0.0.1
+name = simple_reminder
+user = simple_reminder
+pass = 1q2w3e
